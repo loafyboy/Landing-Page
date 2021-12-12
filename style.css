@@ -1,0 +1,188 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.hero{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    font-size: 24px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+a {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+}
+
+.main{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.btn1{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 8px;
+    width: 150px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    margin-bottom: 100px;
+    
+}
+
+.lower {
+    display: flex;
+
+}
+
+.text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.content {
+    width: 550px;
+}
+
+.top{
+    width: 1200px;
+    margin-bottom: 100px;
+}
+
+.mainCar{
+    display: flex;
+    align-self: flex-end;
+    margin-left: auto;
+}
+
+.second {
+    margin-bottom: 100px;
+}
+
+.secondHeader{
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cars{
+    display: flex;
+    justify-content: center;
+}
+.eachCar{
+    margin-left: 50px;
+}
+
+.eachCar img{
+    border-radius: 5px;
+}
+
+.carInfo {
+    display: flex;
+    justify-content: center;
+}
+
+.third{
+    background-color: #e5e7eb;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third p{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    
+}
+
+.qoute{
+    width: 1000px;
+
+}
+.author{
+    display: flex;
+    font-size: 26px;
+    justify-content: flex-end;
+}
+
+.fourth {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 1000px;
+    height: 150px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxed{
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    align-content: center;
+}
+
+.signUp {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 8px;
+    border: 2px solid white;
+    width: 125px;
+    height: 35px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-left: auto;
+}
+
+.twoLines {
+    color: white;
+    font-weight: bold;
+}
+
+.fifth{
+    background-color: #1f2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.fifth p{
+    display: flex;
+    align-items: center;
+}
